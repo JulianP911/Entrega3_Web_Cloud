@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo principal del footer */
+footer {
+  background-color: #2E2525 !important;
+}
+
+/* Estilo para el texto logo del footer */
+.font-text-footer {
+  color: #C4C4C4 !important;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Estilo para el lado izquierdo de  footer */
+.left-footer {
+  display: block !important;
+}
+
+/* Estilo para el texto del footer de los elementos */
+.text-footer {
+  color: #C4C4C4 !important;
+  font-size: 0.8rem;
+  text-decoration: none;
+  list-style: none;
+  margin-left: 0.3rem;
+}
+
+/* Estilo para el texto del logo del footer */
+.logo-color {
+  color: #C4C4C4 !important;
+}
+
+/* Estilo para el texto del contacto del footer */
+#contactus {
+  text-decoration: underline;
+}
+
+/* Estilo para los logos del footer */
+#logos {
+  margin-left: 0.3rem;
+}

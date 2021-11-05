@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+/* Fonts Google */
+/* Definición de variables */
+ .contenedor {
+	 display: flex;
+	 justify-content: space-between;
+	 flex-direction: column;
+	 min-height: 100vh;
+}
+ .card-body {
+	 min-width: 300pt;
+}
+ .input-group-text {
+	 height: 100%;
+}
+ #navbar {
+	 background-color: #2e2525 !important;
+}
+ .container {
+	 height: 100%;
+	 align-content: center;
+}
+ .font-text {
+	 color: #c4c4c4 !important;
+	 font-family: "Poppins", sans-serif;
+}
+ .font-text-footer {
+	 color: #c4c4c4 !important;
+	 font-family: "Poppins", sans-serif;
+}
+ .font-text:hover {
+	 text-decoration: underline;
+}
+ .font-text-buttom {
+	 color: #c4c4c4 !important;
+	 border-color: #c4c4c4 !important;
+	 font-family: "Poppins", sans-serif;
+}
+ .font-text-buttom:hover {
+	 background-color: #c4c4c4 !important;
+	 color: #2e2525 !important;
+	 border-color: #c4c4c4 !important;
+	 font-family: "Poppins", sans-serif;
+}
+ footer {
+	 background-color: #2e2525 !important;
+}
+ .left-footer {
+	 display: block !important;
+}
+ .text-footer {
+	 color: #c4c4c4 !important;
+	 font-size: 0.8rem;
+	 text-decoration: none;
+	 list-style: none;
+	 margin-left: 0.3rem;
+}
+ .logo-color {
+	 color: #c4c4c4 !important;
+}
+ #contactus {
+	 text-decoration: underline;
+}
+ #logos {
+	 margin-left: 0.3rem;
+}
+ #sectionJumbotron {
+	 font-family: "Poppins", sans-serif;
+	 color: #c4c4c4 !important;
+	 height: 30rem;
+}
+
+ #font-text-jumbo {
+	 color: #c4c4c4 !important;
+	 font-weight: bold;
+	 margin-top: 0.9rem;
+}
+ #font-text-buttom-jumbo {
+	 background-color: #2e2525 !important;
+	 color: #c4c4c4 !important;
+	 border-color: #2e2525 !important;
+	 font-family: "Poppins", sans-serif;
+	 font-weight: bold !important;
+}
+
+.card {
+	 border: 3px solid #a0a0a0 be;
+	 background-color: #c4c4c4;
+	 border-radius: 20px;
+	 padding: 3px;
+	 opacity: 0.8;
+}

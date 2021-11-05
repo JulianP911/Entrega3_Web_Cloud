@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del contenedor para el manejo de los inputs y labels del formulario */
+.formularioDatos {
+  font-family: "Poppins", sans-serif;
+  margin-top: 30px;
+}
+
+/* Estilo del contenedor para el ancho */
+#formSky {
+  width: 30rem;
+}
+
+/* Estilo del contenedor que contiene el formulario de contacto */
+#dataUser {
+    background-color: rgba(196, 196, 196, 0.8);
+    width: 42rem;
+}
+
+/* Estilo del texto con la clase tagName */
+.tagName {
+    font-weight: bold;
+}

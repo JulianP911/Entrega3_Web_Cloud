@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo de las cards que se despliega en la vista drones */
+#cardsDronesT {
+    background-size: 100%;
+}
+
+/* Estilo del boton para agregar un nuevo drone */
+#font-text-buttom-jumbo {
+  background-color: #2E2525 !important;
+  color: #C4C4C4 !important;
+  border-color: #2E2525 !important;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold !important;
+}

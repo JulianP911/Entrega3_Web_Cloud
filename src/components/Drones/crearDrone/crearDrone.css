@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del modal que se despliega para crear un drone */
+#modalDrone {
+    background-color: #8D8E8E !important;
+}

@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo principal del body */
+body {
+    font-family:  "Poppins", sans-serif;
+}
+
+/* Estilo principal del contenedor */
+#contenedor {
+    border-color: #2e2525 !important;
+    width: 55rem;
+    background-color: #C4C4C4 !important;
+}

@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo principal del navbar */
+#navbar {
+  background-color: #2e2525 !important;
+}
+
+/* Estilo para el texto del navbar */
+.font-text {
+  color: #c4c4c4 !important;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Estilo dinamico para el texto del navbar */
+.font-text:hover {
+  text-decoration: underline;
+}
+
+/* Estilo para el texto de los botones del navbar */
+.font-text-buttom {
+  color: #c4c4c4 !important;
+  border-color: #c4c4c4 !important;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Estilo dinamico para el texto de los botones del navbar */
+.font-text-buttom:hover {
+  background-color: #c4c4c4 !important;
+  color: #2e2525 !important;
+  border-color: #c4c4c4 !important;
+  font-family: "Poppins", sans-serif;
+}

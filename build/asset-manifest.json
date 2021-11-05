@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/skyplan-uniandes-front-react/static/css/main.1784bebb.chunk.css",
+    "main.js": "/skyplan-uniandes-front-react/static/js/main.15cfd458.chunk.js",
+    "main.js.map": "/skyplan-uniandes-front-react/static/js/main.15cfd458.chunk.js.map",
+    "runtime-main.js": "/skyplan-uniandes-front-react/static/js/runtime-main.f932f546.js",
+    "runtime-main.js.map": "/skyplan-uniandes-front-react/static/js/runtime-main.f932f546.js.map",
+    "static/css/2.53150396.chunk.css": "/skyplan-uniandes-front-react/static/css/2.53150396.chunk.css",
+    "static/js/2.203375a7.chunk.js": "/skyplan-uniandes-front-react/static/js/2.203375a7.chunk.js",
+    "static/js/2.203375a7.chunk.js.map": "/skyplan-uniandes-front-react/static/js/2.203375a7.chunk.js.map",
+    "static/js/3.4a9814fd.chunk.js": "/skyplan-uniandes-front-react/static/js/3.4a9814fd.chunk.js",
+    "static/js/3.4a9814fd.chunk.js.map": "/skyplan-uniandes-front-react/static/js/3.4a9814fd.chunk.js.map",
+    "index.html": "/skyplan-uniandes-front-react/index.html",
+    "service-worker.js": "/skyplan-uniandes-front-react/service-worker.js",
+    "service-worker.js.map": "/skyplan-uniandes-front-react/service-worker.js.map",
+    "static/css/2.53150396.chunk.css.map": "/skyplan-uniandes-front-react/static/css/2.53150396.chunk.css.map",
+    "static/css/main.1784bebb.chunk.css.map": "/skyplan-uniandes-front-react/static/css/main.1784bebb.chunk.css.map",
+    "static/js/2.203375a7.chunk.js.LICENSE.txt": "/skyplan-uniandes-front-react/static/js/2.203375a7.chunk.js.LICENSE.txt",
+    "static/media/CardDrone2.730fe673.jpeg": "/skyplan-uniandes-front-react/static/media/CardDrone2.730fe673.jpeg",
+    "static/media/CardLibrary.3406e176.jpeg": "/skyplan-uniandes-front-react/static/media/CardLibrary.3406e176.jpeg",
+    "static/media/CardRuta2.388397ea.png": "/skyplan-uniandes-front-react/static/media/CardRuta2.388397ea.png",
+    "static/media/ContactWallpaper.df252bbb.jpeg": "/skyplan-uniandes-front-react/static/media/ContactWallpaper.df252bbb.jpeg",
+    "static/media/DronesWallpaper.d3727ecd.jpg": "/skyplan-uniandes-front-react/static/media/DronesWallpaper.d3727ecd.jpg",
+    "static/media/LoginRegister.8ed517eb.png": "/skyplan-uniandes-front-react/static/media/LoginRegister.8ed517eb.png",
+    "static/media/jumbotronTerciario.css": "/skyplan-uniandes-front-react/static/media/MapCenter.398f5666.png",
+    "static/media/jumbotronCuaternario.css": "/skyplan-uniandes-front-react/static/media/MapInteractive.e2c5249d.gif",
+    "static/media/MenuWalppaper.ee4255a2.jpeg": "/skyplan-uniandes-front-react/static/media/MenuWalppaper.ee4255a2.jpeg",
+    "static/media/NosotrosWallpaper.ab5a4e62.jpeg": "/skyplan-uniandes-front-react/static/media/NosotrosWallpaper.ab5a4e62.jpeg",
+    "static/media/PhotoBackgroundRoutes.458bda7a.jpg": "/skyplan-uniandes-front-react/static/media/PhotoBackgroundRoutes.458bda7a.jpg",
+    "static/media/jumbotronSecundario.css": "/skyplan-uniandes-front-react/static/media/PhotoJumboRight.8839db6b.png",
+    "static/media/jumbotronPrincipal.css": "/skyplan-uniandes-front-react/static/media/PhotoJumboTron.a4a4df7a.jpeg",
+    "static/media/libreriaRutas.43e4dab4.png": "/skyplan-uniandes-front-react/static/media/libreriaRutas.43e4dab4.png",
+    "static/media/user-profile-pic.bda587e3.png": "/skyplan-uniandes-front-react/static/media/user-profile-pic.bda587e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f932f546.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.203375a7.chunk.js",
+    "static/css/main.1784bebb.chunk.css",
+    "static/js/main.15cfd458.chunk.js"
+  ]
+}

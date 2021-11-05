@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo contenedor de los datos del ambiente */
+#containerClima {
+    background-color: #C4C4C4;
+    margin-left: 3rem;
+    height: 6rem;
+}
+
+/* Estilo de la imagen correspondiente al clima */
+#imgRutas {
+    width: 40px;
+    height: 40px;
+    margin-right: 1rem;
+}

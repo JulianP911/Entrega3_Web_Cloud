@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del titulo de la cabecera de contacto */
+.nombreLogo2 {
+  font-size: 2rem;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 0.2rem;
+  font-weight: bold;
+}
+
+/* Estilo del logo de la cabecera de contacto  */
+.logo {
+  margin-left: -15px;
+}
+
+/* Estilo del contenedor para el ancho */
+#formSky {
+  width: 30rem;
+}
+
+/* Estilo del contenedor que contiene la informacion de la cabecera */
+#dataUserHead {
+    background-color: rgba(196, 196, 196, 0.8);
+    width: 42rem;
+}

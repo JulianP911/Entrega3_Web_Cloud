@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del contenedor de la vista registro */
+.contenedor {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	min-height: 100vh;
+}
+ 
+/* Estilo del body de las tarjetas */
+.card-body {
+	min-width: 300pt;
+}
+
+/* Estilo de los inputs para recibir la informacion */
+.input-group-text {
+	height: 100%;
+}
+ 
+/* Estilo del card de registro */
+.card {
+	max-width: 75%;
+}
+ 
+/* Estilo para el check de la opcion genero */
+.selecSexo input:checked ~ .checkmark {
+	 background-color: #2e2525;
+}
+
+/* Estilo general de la card de registro */
+.card {
+	border: 3px solid #a0a0a0 be;
+	background-color: #c4c4c4;
+	border-radius: 20px;
+	padding: 3px;
+	opacity: 0.9;
+}

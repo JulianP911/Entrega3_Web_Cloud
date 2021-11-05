@@ -1,0 +1,115 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del contenedor de rutas */
+#contenerdorRutas {
+  background-color: #DBD0C0 !important;
+  width: 20rem;
+}
+
+/* Estilo del contenedor que contiene el boton de suscribirse */
+#contendorBotonSuscribirse {
+  margin-left: 12rem;
+}
+
+/* Estilo de los titulos de las librerias */
+#titulosLibrerias {
+  color: #2E2525 !important;
+  border-color: #C4C4C4 !important;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* Estilo del texto del boton de los contenedores de librerias */
+.font-text-buttom {
+  color: #C4C4C4 !important;
+  border-color: #C4C4C4 !important;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Estilo del texto del boton de los contenedores de librerias con hover */
+.font-text-buttom:hover {
+  background-color: #C4C4C4 !important;
+  color: #2E2525 !important;
+  border-color: #C4C4C4 !important;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Estilo del background */
+.background {
+  background-size: cover;
+}
+
+/* Estilo del texto de jumbotron principal */
+.font-text-jumbo {
+  color: #2E2525 !important;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+/* Estilo de los botonoes de ver mas del contenedor de libreria de rutas */
+.black-buttom {
+  background-color: #C4C4C4 !important;
+  color: #2E2525 !important;
+  border-color: #2E2525 !important;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold !important;
+}
+
+/* Estilo de la cabecera de la libreria de rutas */
+.rutasHeader {
+  border: 3px solid #a0a0a0be;
+  background-color: #C4C4C4;
+  border-radius: 7px;
+  opacity: 0.8;
+  width: 23rem;
+}
+
+/* Estilo del despliegue de las rutas */
+.rutas {
+  border: 3px solid #a0a0a0be;
+  background-color: #C4C4C4;
+  border-radius: 7px;
+  opacity: 0.8;
+  width: 23rem;
+}
+
+/* Estilo de la letra para que salga de color negro */
+.letra {
+  color: #2E2525;
+}
+
+/* Estilo del logo de la cabecera de la libreria de rutas */
+.logo-libreria {
+  padding: 23px;
+  text-align: center;
+}
+
+/* Estilo de la letra principal del centro */
+.letraCenter {
+  color: #2E2525;
+  text-align:center;
+  font-weight: 600;
+}
+
+/* Estilo de la letra de las rutas mostradas  */
+.letraRutas {
+  color: #2E2525;
+  text-align:left;
+  font-weight: 600;
+}
+
+/* Estilo del spam de las rutas */
+.rutas-spam {
+  font-size: 0.9rem;
+}
+
+/* Estilo de las columnas para queden separadas */
+#colMed {
+  margin-left: 7rem;
+}

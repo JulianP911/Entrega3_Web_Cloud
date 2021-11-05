@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@300&display=swap");
+
+/* Estilo de las cards de drones */
+#drones {
+  background-color: #2E2525 !important;
+  width: 20rem;
+  height: 20rem;
+  margin-top: 3rem;
+}
+
+/* Estilo de las salto de linea entre el modelo y la imagen */
+.br2 {
+  word-spacing: 2rem;
+}
+
+/* Estilo del titulo de cards que contienen la informacion de los drones */
+.drones-title {
+  font-family: "Exo", sans-serif;
+  font-weight: bold !important;
+  line-height: 2rem;
+  font-size: 1.4rem;
+  color: #C4C4C4 !important;
+}
+
+/* Estilo del texto de los componentes de las cards de drones */
+.drones-text {
+    font-family: "Exo", sans-serif;
+    font-weight: normal !important;
+    font-size: 1.0rem;
+    color: #C4C4C4 !important;
+}

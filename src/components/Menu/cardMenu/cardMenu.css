@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del jumbotron que contiene las cards */
+#jumbotronCards {
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Estilo del menu de las cards */
+.cardsMenu {
+    background-color: #C4C4C4 !important;
+    border: 1px #2E2525 solid;
+    height: 28rem;
+}
+
+/* Estilo del texto, colores y bordes de los botones */
+.font-text-buttom-jumbo-a {
+    background-color: #2E2525 !important;
+    color: #C4C4C4 !important;
+    border-color: #2E2525 !important;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold !important;
+}
+
+/* Estilo del las fotos de la card  */
+.cardsImg {
+    height: 14rem;
+}
+
+/* Estilo general de la card */
+.card{
+    background-color: #C4C4C4;
+    border-radius: 8px;
+    padding: 3px;
+}
+
+/* Estilo del las carateristicas del card */
+.card-li {
+    width: 13.5rem;
+}
+
+/* Estilo del testo de las cards de la vista menu */
+.card-text-menu{
+    font-size: 0.85rem;
+}

@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo de la seccion jumbotron */
+#sectionJumbotron {
+    font-family: "Poppins", sans-serif;
+    color: #C4C4C4 !important;
+    height: 30rem;
+}
+
+/* Estilo del jumbotron */
+.jumbotron {
+    background-image: url(../../../assets/img/PhotoJumboTron.jpeg);
+    background-size: cover;
+}
+  
+/* Estilo de la letra del jumbotron */
+#font-text-jumbo {
+    color: #C4C4C4 !important;
+    font-weight: bold;
+    margin-top: 0.9rem;
+}
+  
+/* Estilo de la letra del boton jumbotron */
+.font-text-buttom-jumbo {
+    background-color: #2E2525 !important;
+    color: #C4C4C4 !important;
+    border-color: #2E2525 !important;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold !important;
+}

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del contenedor de la vista login */
+.contenedor{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  min-height: 100vh;
+  background-size: cover;
+}
+
+/* Estilo del body de las tarjetas */
+.card-body{
+  min-width: 300pt;
+}
+
+/* Estilo de los inputs para recibir la informacion */
+.input-group-text{
+  height:100%;
+}
+
+/* Estilo general de la card de registro */
+.cardL{
+  border: 2px solid #a0a0a0be;
+  background-color: #e2e1e1;
+  border-radius: 8px;
+  padding: 3px;
+  opacity: 0.9;
+}

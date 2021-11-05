@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo de la seccion jumbotron map */
+#sectionJumbotronMap {
+  font-family: "Poppins", sans-serif;
+  color: #2E2525 !important;
+  height: 25.5rem;
+}
+
+/* Estilo del jumbotron map */
+.jumbotron-Map {
+  background-image: url(../../../assets/img/MapCenter.png);
+  background-size: cover;
+}
+
+/* Estilo del texto especifico map */
+#text-map-specific {
+  text-decoration-line: underline;
+}

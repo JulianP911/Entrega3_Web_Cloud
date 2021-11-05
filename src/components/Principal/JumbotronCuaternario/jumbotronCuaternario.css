@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del contenedor del mapa */
+#map-div {
+  background-color: #2E2525 !important;
+}
+
+/* Estilo del mapa */
+#map {
+  background-image: url(../../../assets/img/MapInteractive.gif);
+  background-size: cover;
+  height: 25rem;
+}
+
+/* Estilo de la tarjeta de usuario */
+#map-user {
+  background-color: #C4C4C4 !important;
+  width: 22rem;
+  height: 18rem;
+  margin-left: 6rem;
+}
+
+/* Estilo del texto de la tarjeta de usuario */
+.map-text {
+  font-family: "Poppins", sans-serif;
+  line-height: 2rem;
+  font-weight: bold;
+}

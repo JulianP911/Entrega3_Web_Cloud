@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo de los elementos marketing */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+/* Estilo de los elemento h2 marketing */
+.marketing h2 {
+  font-weight: 400;
+}
+
+/* Estilo de los elementos marketing y columnas */
+.marketing .col-lg-4 p {
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
+}

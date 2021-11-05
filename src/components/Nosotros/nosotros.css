@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del boton del jumbotron de nosotros */
+.font-text-buttom-jumbo-a {
+    background-color: #2E2525 !important;
+    color: #C4C4C4 !important;
+    border-color: #2E2525 !important;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold !important;
+}
+
+/* Estilo general del jumbotron nosotros */
+#jumbotronNosotros {
+    background-size: cover;
+    height: 41rem;
+}
+
+/* Estilo de la sección de nosotros */
+#nostrosSection {
+    background-color: rgba(196, 196, 196, 0.8) !important;
+    width: 50rem;
+    height: 31rem;
+}

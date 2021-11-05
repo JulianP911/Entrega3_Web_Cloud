@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+/* Fonts Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+/* Estilo del jumbotron que contien las cards */
+#jumbotronCards {
+  background-size: cover;
+  height: 35rem;
+  font-family: "Poppins", sans-serif;
+}
